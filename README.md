@@ -75,6 +75,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     * [Building proteins in a day: Efficient 3D molecular reconstruction(CVPR2015)](#)
 * [Pathwalker](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3307788/pdf/nihms350767.pdf) - Constructing and Validating Initial Cα Models from Subnanometer Resolution Density Maps with Pathwalking, TSP
 * [EMBuilder](https://www.nature.com/articles/s41598-017-02725-w) - EMBuilder: A Template Matching-based Automatic Model-building Program for High-resolution Cryo-Electron Microscopy Maps
+* [Deep EM Tracer](https://github.com/DrDongSi/Ca-Backbone-Prediction) - DAIS group, Backbone tracing from cryo-EM maps.
 
 ## Technologies
 [back to top](#readme) 
@@ -107,6 +108,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [cryoSPARC](http://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4169.html) - cryoSPARC: algorithms for rapid unsupervised cryo-EM structure determination
 * [AuTom](http://www.sciencedirect.com/science/article/pii/S1047847717301284) - AuTom: A novel automatic platform for electron tomography reconstruction 
 
+### Volume Cut
+
 ### Denoising
 * [GAN](https://www.biorxiv.org/content/early/2018/02/12/256792) - Generative adversarial networks as a tool to recover structural information from cryo-electron microscopy data.
 
@@ -122,7 +125,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Atomic accuracy models from 4.5 Å cryo-electron microscopy data with density-guided iterative local refinement](http://www.nature.com/doifinder/10.1038/nmeth.3286)
 * [EMfold](http://www.meilerlab.org/index.php/servers/show?s_id=18) - Meiler Lab,  placement of helices is restricted to CryoEM density regions.
 * SSE based methods.
-* Backbone tracing methods.
+* [Deep EM Tracer](https://github.com/DrDongSi/Ca-Backbone-Prediction) - DAIS group, Backbone tracing from cryo-EM maps.
 * [Pathwalker](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3307788/pdf/nihms350767.pdf) - Constructing and Validating Initial Cα Models from Subnanometer Resolution Density Maps with Pathwalking, TSP
 * [EMBuilder](https://www.nature.com/articles/s41598-017-02725-w) - EMBuilder: A Template Matching-based Automatic Model-building Program for High-resolution Cryo-Electron Microscopy Maps
 * [Book chapter, Review](https://www.sciencedirect.com/science/article/pii/S0076687916301136?via%3Dihub) - Tools for Model Building and Optimization into Near-Atomic Resolution Electron Cryo-Microscopy Density Maps
@@ -180,6 +183,7 @@ structure recovery from electron cryo tomograms](https://arxiv.org/pdf/1701.0840
 * [Sriram Subramaniam](https://electron.nci.nih.gov/publications)
 * [Michael Cianfrocco Lab](http://www.lsi.umich.edu/labs/michael-cianfrocco-lab)
 * [Kihara Lab](http://kiharalab.org/mainmast/)
+* [Dong Si](faculty.washington.edu/dongsi) - Data Analysis & Intelligent Systems (DAIS)
 
 [3D-EM Laboratories](http://3dem.ucsd.edu/labs_a_c.shtm)
 
